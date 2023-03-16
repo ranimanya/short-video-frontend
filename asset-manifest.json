@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/short-video-frontend/static/css/main.3fd44165.css",
+    "main.js": "/short-video-frontend/static/js/main.a377649a.js",
+    "index.html": "/short-video-frontend/index.html",
+    "main.3fd44165.css.map": "/short-video-frontend/static/css/main.3fd44165.css.map",
+    "main.a377649a.js.map": "/short-video-frontend/static/js/main.a377649a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fd44165.css",
+    "static/js/main.a377649a.js"
+  ]
+}
